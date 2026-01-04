@@ -1,6 +1,7 @@
 {
     "name": "nanxihang/oauth",
     "description": "南熙航SaaS环境三方授权",
+	"version": "1.0.1",
     "type": "library",
     "autoload": {
         "psr-4": {
