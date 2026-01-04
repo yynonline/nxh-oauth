@@ -7,12 +7,7 @@
 使用Composer安装：
 
 ```bash
-composer require nanxihang/oauth
-```
-
-```plaintext
-dev host: https://nxh-tp5-dev.iwxapi.cn
-prod host: https://api-app.iwxapi.com
+composer require nanxihang/oauth ^1.0.0
 ```
 
 ## 使用方法
